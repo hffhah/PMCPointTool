@@ -1,0 +1,40 @@
+2017-09-19 18:06:31 , System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 PMCPointTool.PointAttr.initAttr_TIP_FLT_BLOCK(PointAttr rowAttr, String stationName, Int32 stationNo, String pointName, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\PointAttr.cs:行号 5167
+   在 PMCPointTool.ProdStationPoint.initPointAttr(String pointName, PointAttr rowAttr, String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\ProdStationPoint.cs:行号 449
+   在 PMCPointTool.BasePoint.initPointAttrs(String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\BasePoint.cs:行号 120
+   在 PMCPointTool.BasePoint.generateCSVData(List`1 areas) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\BasePoint.cs:行号 347
+2017-09-19 18:09:40 , System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 PMCPointTool.PointAttr.initAttr_TIP_FLT_BLOCK(PointAttr rowAttr, String stationName, Int32 stationNo, String pointName, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\PointAttr.cs:行号 5167
+   在 PMCPointTool.ProdStationPoint.initPointAttr(String pointName, PointAttr rowAttr, String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\ProdStationPoint.cs:行号 449
+   在 PMCPointTool.BasePoint.initPointAttrs(String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\BasePoint.cs:行号 120
+   在 PMCPointTool.BasePoint.generateCSVData(List`1 areas) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\BasePoint.cs:行号 347
+2017-09-19 18:11:46 , System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 PMCPointTool.PointAttr.initAttr_TIP_FLT_BLOCK(PointAttr rowAttr, String stationName, Int32 stationNo, String pointName, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\PointAttr.cs:行号 5167
+   在 PMCPointTool.ProdStationPoint.initPointAttr(String pointName, PointAttr rowAttr, String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\ProdStationPoint.cs:行号 449
+   在 PMCPointTool.BasePoint.initPointAttrs(String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\BasePoint.cs:行号 120
+   在 PMCPointTool.BasePoint.generateCSVData(List`1 areas) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\BasePoint.cs:行号 347
+2017-09-19 18:14:03 , System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 PMCPointTool.PointAttr.initAttr_TIP_FLT_ANDON(PointAttr rowAttr, String stationName, Int32 stationNo, String pointName, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\PointAttr.cs:行号 5553
+   在 PMCPointTool.ProdStationPoint.initPointAttr(String pointName, PointAttr rowAttr, String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\ProdStationPoint.cs:行号 454
+   在 PMCPointTool.BasePoint.initPointAttrs(String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\BasePoint.cs:行号 120
+   在 PMCPointTool.BasePoint.generateCSVData(List`1 areas) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\BasePoint.cs:行号 347
+2017-09-19 18:15:50 , System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 PMCPointTool.PointAttr.initAttr_PCA0001_R(PointAttr rowAttr, String stationName, Int32 stationNo, String pointName, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\PointAttr.cs:行号 3661
+   在 PMCPointTool.ProdStationPoint.initPointAttr(String pointName, PointAttr rowAttr, String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\ProdStationPoint.cs:行号 411
+   在 PMCPointTool.BasePoint.initPointAttrs(String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\BasePoint.cs:行号 120
+   在 PMCPointTool.BasePoint.generateCSVData(List`1 areas) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Point\BasePoint.cs:行号 347

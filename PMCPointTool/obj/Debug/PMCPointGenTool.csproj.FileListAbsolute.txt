@@ -1,0 +1,10 @@
+F:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\bin\Debug\PMCPointGenTool.exe.config
+F:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\bin\Debug\PMCPointGenTool.exe
+F:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\bin\Debug\PMCPointGenTool.pdb
+F:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\obj\Debug\PMCPointGenTool.csproj.ResolveComReference.cache
+F:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\obj\Debug\PMCPointGenTool.AboutForm.resources
+F:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\obj\Debug\PMCPointGenTool.MainForm.resources
+F:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\obj\Debug\PMCPointGenTool.Properties.Resources.resources
+F:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\obj\Debug\PMCPointGenTool.csproj.GenerateResource.Cache
+F:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\obj\Debug\PMCPointGenTool.exe
+F:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\obj\Debug\PMCPointGenTool.pdb

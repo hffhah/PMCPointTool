@@ -1,0 +1,20 @@
+2017-09-30 09:44:55 , System.ArgumentNullException: “table”参数不能为空。
+参数名: table
+   在 System.Data.DataTable.Merge(DataTable table, Boolean preserveChanges, MissingSchemaAction missingSchemaAction)
+   在 PMCPointTool.MainController.readConfig(String[] path, String& errorString) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Form\MainController.cs:行号 563
+2017-09-30 09:45:31 , System.ArgumentNullException: “table”参数不能为空。
+参数名: table
+   在 System.Data.DataTable.Merge(DataTable table, Boolean preserveChanges, MissingSchemaAction missingSchemaAction)
+   在 PMCPointTool.MainController.readConfig(String[] path, String& errorString) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Form\MainController.cs:行号 563
+2017-09-30 09:46:06 , System.ArgumentNullException: “table”参数不能为空。
+参数名: table
+   在 System.Data.DataTable.Merge(DataTable table, Boolean preserveChanges, MissingSchemaAction missingSchemaAction)
+   在 PMCPointTool.MainController.readConfig(String[] path, String& errorString) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Form\MainController.cs:行号 563
+2017-09-30 09:49:41 , System.ArgumentNullException: “table”参数不能为空。
+参数名: table
+   在 System.Data.DataTable.Merge(DataTable table, Boolean preserveChanges, MissingSchemaAction missingSchemaAction)
+   在 PMCPointTool.MainController.readConfig(String[] path, String& errorString) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Form\MainController.cs:行号 564
+2017-09-30 09:53:31 , System.ArgumentNullException: “table”参数不能为空。
+参数名: table
+   在 System.Data.DataTable.Merge(DataTable table, Boolean preserveChanges, MissingSchemaAction missingSchemaAction)
+   在 PMCPointTool.MainController.readConfig(String[] path, String& errorString) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Form\MainController.cs:行号 564

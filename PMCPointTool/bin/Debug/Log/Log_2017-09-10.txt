@@ -1,0 +1,24 @@
+2017-09-10 15:30:33 , System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 PMCPointGenTool.BasePointData.generateStationInfoData(String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\Point\BasePointData.cs:行号 66
+   在 PMCPointGenTool.BasePointData.generateCSVData(List`1 areas) 位置 f:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\Point\BasePointData.cs:行号 255
+2017-09-10 15:45:03 , System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 PMCPointGenTool.BasePointData.generateStationInfoData(String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\Point\BasePointData.cs:行号 66
+   在 PMCPointGenTool.BasePointData.generateCSVData(List`1 areas) 位置 f:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\Point\BasePointData.cs:行号 255
+2017-09-10 15:50:02 , System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 PMCPointGenTool.BasePointData.generateStationInfoData(String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\Point\BasePointData.cs:行号 66
+   在 PMCPointGenTool.BasePointData.generateCSVData(List`1 areas) 位置 f:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\Point\BasePointData.cs:行号 255
+2017-09-10 15:57:34 , System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 PMCPointGenTool.BasePointData.generateStationInfoData(String stationName, Int32 stationNo, String resourceId, String deviceId) 位置 f:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\Point\BasePointData.cs:行号 66
+   在 PMCPointGenTool.BasePointData.generateCSVData(List`1 areas) 位置 f:\MY STUDY\C#\Projects\PMCPointGenTool\PMCPointGenTool\Point\BasePointData.cs:行号 255
