@@ -1,5 +1,0 @@
-2017-09-27 11:54:43 , station_alarm文件中无匹配的PLC存在。Excel行号=2,plcName=RF221
-PMCPointTool.MyException: station_alarm文件中无匹配的PLC存在。Excel行号=2,plcName=RF221
-   在 PMCPointTool.MainController.loadStationAlarm(List`1 areas, DataTable dtStationAlarm, Int32 dtStationInfoRows, Int32 progressMaxValue) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Form\MainController.cs:行号 299
-   在 PMCPointTool.MainController.fillAreaDatas(List`1 areas, DataTable dtStationInfo, DataTable dtStationAlarm) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Form\MainController.cs:行号 164
-   在 PMCPointTool.MainController.generate(String path, String& result) 位置 f:\MY STUDY\C#\Projects\PMCPointTool\PMCPointTool\Form\MainController.cs:行号 594
